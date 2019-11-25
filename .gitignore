@@ -1,3 +1,7 @@
 Build/*make*
 Build/*Make*
+Build/T*
 Bin/*exe
+Bin/*.o
+Bin/*.out
+
