@@ -1,9 +1,10 @@
-
-#include"../Include/a.h"
-#include"../Include/b.h"
-
+#include<iostream>
+using namespace std;
 int main(int agec, char **argv) {
-    print();
-    g();
+    cout<<"hello world"<<endl;
+    // for(int i=0;i<10;i++)
+    // {
+    //     cout<<i<<endl;
+    // }
     return 0;
 }

@@ -1,23 +1,15 @@
 {
     "configurations": [
-        {
-            "name": "Win32",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "windowsSdkVersion": "10.0.17763.0",
-            "compilerPath": "\"C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe\"",
-            "cStandard": "c11",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "gcc-x86",
-            "configurationProvider": "vector-of-bool.cmake-tools",
-            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
-        }
+      {
+        "name": "macOS",
+        "includePath": ["${workspaceFolder}/**"],
+        "defines": [],
+        "macFrameworkPath": ["/System/Library/Frameworks", "/Library/Frameworks"],
+        "compilerPath": "/usr/bin/clang",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "${default}"
+      }
     ],
     "version": 4
-}
+  }

@@ -4,7 +4,7 @@
         {
             "label": "compile",
             "type": "shell",
-            "command": ".\\build.bat",
+            "command": "sh build.sh",
             "group": {
                 "kind": "build",
                 "isDefault": true
