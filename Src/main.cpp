@@ -1,9 +1,6 @@
 
-#include"../Include/a.h"
-#include"../Include/b.h"
-
+#include<iostream>
+using namespace std;
 int main(int agec, char **argv) {
-    print();
-    g();
-    return 0;
+    cout<<"hello world"<<endl;
 }
