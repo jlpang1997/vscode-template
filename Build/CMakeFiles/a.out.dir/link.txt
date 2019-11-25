@@ -1,1 +1,0 @@
-g++  -g -fexec-charset=GBK  -rdynamic CMakeFiles/a.out.dir/Src/main.cpp.o  -o ../Bin/a.out 
