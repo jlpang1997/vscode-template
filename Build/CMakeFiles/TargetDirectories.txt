@@ -1,0 +1,3 @@
+/home/jinlinpang/source/projectx/Build/CMakeFiles/rebuild_cache.dir
+/home/jinlinpang/source/projectx/Build/CMakeFiles/a.out.dir
+/home/jinlinpang/source/projectx/Build/CMakeFiles/edit_cache.dir
